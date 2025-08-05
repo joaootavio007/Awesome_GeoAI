@@ -34,3 +34,5 @@ Summary
 - Chapter 18 - YOLOv6, YOLOv7 and YOLOv8
 - Chapter 19 - YOLO-NAS and YOLOv9
 - Chapter 20 - YOLOv8 OBB and YOLOv8 for Instance Segmentation
+
+- Chapter Bonus 01 - Tree Detection with YOLOv12
