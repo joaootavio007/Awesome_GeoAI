@@ -1,10 +1,18 @@
 # Awesome GeoAI
 
 
+## Introduction to Computer Vision for Remote Sensing with Python
+
+<img width="600" height="600" alt="Style Introduction for VC to RS" src="https://github.com/user-attachments/assets/04144fc8-2ed0-4bb2-bde3-913a2d08f788" />
+
+
+Link: https://mentoriaai4rs.my.canva.site/introduction-cv-rs-python
+
+
 ## Ebook Mastering GeoAI - Computer Vision and Deep Learning for Remote Sensing
 
 
-If you are interested in learning more about Deep learning and computer vision applied to satellite and drone images, my new ebook is available for purchase!!
+If you are interested in learning more about Deep learning and computer vision applied to satellite and drone images, my ebook is available for purchase!!
 
 
 <img width="600" height="600" alt="01" src="https://github.com/user-attachments/assets/fedea4c3-cb4f-4bdd-806b-2aefad04e532" />
