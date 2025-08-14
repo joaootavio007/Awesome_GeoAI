@@ -1,4 +1,4 @@
-# Awesome GeoAI
+# Awesome GeoAI Ebooks:
 
 ## Machine Learning and Geospatial Analysis for Precision Agriculture
 
