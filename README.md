@@ -33,3 +33,6 @@ Summary
 - Chapter 20 - YOLOv8 OBB and YOLOv8 for Instance Segmentation
 
 - Chapter Bonus 01 - Tree Detection with YOLOv12
+- Chapter Bonus 02 - Building Detection
+- Chapter Bonus 03 - Solar Panel Segmentation
+- Chapter Bonus 04 - LULC Mapping using U-Net Semantic Segmentation
